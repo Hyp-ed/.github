@@ -10,5 +10,5 @@ HYPED is a team of students at The University of Edinburgh dedicated to developi
 
 **Get in contact:**
 
-- Website: [https://hyp-ed.com](https://hyp-ed.com)
+- Website: [https://teamhyped.co.uk](https://teamhyped.co.uk)
 - Email: team@hyp-ed.com
